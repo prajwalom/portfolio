@@ -32,19 +32,19 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      content: 'prajwal.padole@email.com',
-      href: 'mailto:prajwal.padole@email.com'
+      content: 'prajwalpadole99@email.com',
+      href: 'mailto:prajwalpadole99@email.com'
     },
     {
       icon: Phone,
       title: 'Phone',
-      content: '+91 98765 43210',
-      href: 'tel:+919876543210'
+      content: '+91 7028378450',
+      href: 'tel:+917028378450'
     },
     {
       icon: MapPin,
       title: 'Location',
-      content: 'Mumbai, Maharashtra, India',
+      content: 'Bhandara, Maharashtra, India',
       href: '#'
     }
   ];

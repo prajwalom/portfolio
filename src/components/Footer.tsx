@@ -2,8 +2,8 @@ import { Code2, Heart, Github, Linkedin, Mail, Twitter } from 'lucide-react';
 
 const Footer = () => {
   const socialLinks = [
-    { icon: Github, href: '#', label: 'GitHub' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/prajwalom', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/prajwal-om/', label: 'LinkedIn' },
     { icon: Twitter, href: '#', label: 'Twitter' },
     { icon: Mail, href: '#contact', label: 'Email' }
   ];
